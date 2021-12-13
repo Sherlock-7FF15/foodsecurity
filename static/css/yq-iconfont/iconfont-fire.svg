@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="fire" unicode="&#58921;" d="M349.257-50.775c85.869 0 187.259-0.054 298.438-0.054 462.86 261.864 115.14 653.722 54.593 697.857 20.164-44.136 24.026-118.84-16.784-155.144-69.021 261.65-239.61 315.278-239.61 315.278 20.164-134.927-73.148-282.51-163.134-392.768-3.164 53.788-6.543 90.951-34.805 142.434-6.328-97.764-81.032-177.455-101.303-275.379-27.404-132.62 20.54-229.74 202.551-332.331l0.054 0.108z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

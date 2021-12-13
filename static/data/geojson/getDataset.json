@@ -1,0 +1,32 @@
+{
+    "status": 0,
+    "message": [{
+            "id": "FD0001",
+            "event_name": "非洲猪瘟",
+            "startdate": "2018-11-01",
+            "enddate": "2019-05-01",
+            "space": "北京"
+        },
+        {
+            "id": "FD0002",
+            "event_name": "三全水饺查出猪瘟病毒",
+            "startdate": "2019-07-01",
+            "enddate": "2019-10-01",
+            "space": "上海、北京、武汉"
+        },
+        {
+            "id": "FD0003",
+            "event_name": "猪瘟病毒",
+            "startdate": "2019-07-01",
+            "enddate": "2019-10-01",
+            "space": "上海、杭州"
+        },
+        {
+            "id": "FD0004",
+            "event_name": "猪瘟",
+            "startdate": "2019-07-01",
+            "enddate": "2019-10-01",
+            "space": "上海"
+        }
+    ]
+}

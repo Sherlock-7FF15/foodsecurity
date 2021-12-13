@@ -1,0 +1,46 @@
+/**原来的接口格式 */
+{"message": [
+    {
+        "Companyid_begin": "CP018001",
+        "Companyid_end": "CP018015",
+        "longitude_begin": "111.7117 ",
+        "longitude_end": "113.3157 ",
+        "lattitude_begin": "40.8242 ",
+        "lattitude_end": "40.0780 "
+    },
+    {
+        "Companyid_begin": "CP018015",
+        "Companyid_end": "CP018020",
+        "longitude_begin": "113.3157 ",
+        "longitude_end": "110.5883 ",
+        "lattitude_begin": "40.0780 ",
+        "lattitude_end": "32.3057 "
+    },
+    {
+        "Companyid_begin": "CP018020",
+        "Companyid_end": "CP018021",
+        "longitude_begin": "110.5883 ",
+        "longitude_end": "106.6278 ",
+        "lattitude_begin": "32.3057 ",
+        "lattitude_end": "29.6307 "
+    }
+]}
+
+//现在需要的接口格式
+{"message": [
+    {   
+        "id": 1,  //这个可要可不要，最好还是给一个
+        "Companyid_begin": "CP018001",
+        "Companyid_process": "CP018015",
+        "Companyid_trans": "CP018020",
+        "Companyid_end": "CP018021",
+        "longitude_begin": "111.7117 ",
+        "lattitude_begin": "40.8242 ",
+        "longitude_process": "113.3157 ",
+        "lattitude_process": "40.0780 ",
+        "longitude_trans": "40.0780 ",
+        "lattitude_trans": "32.3057 ",
+        "longitude_end": "32.3057 ",
+        "lattitude_end": "29.6307 "
+    }
+]}

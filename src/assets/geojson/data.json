@@ -1,0 +1,37 @@
+{
+  "status": 0,
+  "message": [
+    {
+      "startdate": "2018-11-01",
+      "enddate": "2019-05-01",
+      "adcode": "420100",
+      "mblog_total": 300,
+      "pos_num": 150,
+      "neg_num": 100
+    },
+    {
+      "startdate": "2018-11-01",
+      "enddate": "2019-05-01",
+      "adcode": "420200",
+      "mblog_total": 150,
+      "pos_num": 65,
+      "neg_num": 100
+    },
+    {
+      "startdate": "2018-11-01",
+      "enddate": "2019-05-01",
+      "adcode": "130700",
+      "mblog_total": 200,
+      "pos_num": 45,
+      "neg_num": 50
+    },
+    {
+      "startdate": "2018-11-01",
+      "enddate": "2019-05-01",
+      "adcode": "130600",
+      "mblog_total": 300,
+      "pos_num": 45,
+      "neg_num": 50
+    }
+  ]
+}

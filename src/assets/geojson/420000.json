@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.298572,
+        30.584355
+      ]
+    },
+    "properties": {
+      "adcode": 420100,
+      "name": "武汉市"
+    }
+  },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.077048,
+          30.220074
+        ]
+      },
+      "properties": {
+        "adcode": 420200,
+        "name": "黄石市"
+      }
+    }]
+}

@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+[0529/014106.537:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
+=======
+[0523/151512.797:ERROR:process_info.cc(359)] UncheckedAllocate
+[0604/181429.588:ERROR:process_info.cc(359)] UncheckedAllocate
+[0605/181111.491:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\86133\AppData\Local\Google\Chrome\User Data\Crashpad\reports\181bf1a6-4624-4888-86e1-3a91b773a405.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)
+[0605/205835.079:ERROR:process_info.cc(359)] UncheckedAllocate
+[0606/095552.219:ERROR:process_info.cc(359)] UncheckedAllocate
+[0606/095741.398:ERROR:process_info.cc(359)] UncheckedAllocate
+>>>>>>> 26566d6604893ffc4ed2a4c90e0f60c3c926fd2e

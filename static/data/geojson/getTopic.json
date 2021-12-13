@@ -1,0 +1,29 @@
+{
+    "status": 0,
+    "message": [{
+            "content": "猪肉还能吃吗",
+            "hot": 8.3,
+            "sortnum": 1
+        },
+        {
+            "content": "猪瘟爆发",
+            "hot": 8.0,
+            "sortnum": 2
+        },
+        {
+            "content": "猪瘟爆发",
+            "hot": 7.5,
+            "sortnum": 3
+        },
+        {
+            "content": "猪瘟爆发",
+            "hot": 7.5,
+            "sortnum": 3
+        },
+        {
+            "content": "猪瘟爆发",
+            "hot": 7.5,
+            "sortnum": 3
+        }
+    ]
+}

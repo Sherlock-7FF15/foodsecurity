@@ -1,0 +1,9 @@
+{
+    "status": 0,
+    "message": [{
+        "food_name": " 牛奶",
+        "no_pass_rate_food": "0.2300",
+        "provinceid": "4300000000",
+        "num_no_pass_batch": 345
+    }]
+}
