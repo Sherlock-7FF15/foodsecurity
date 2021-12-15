@@ -28,4 +28,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ![image](https://github.com/Sherlock-7FF15/foodsecurity/blob/main/pic/sample.jpg)
 
 ## Graph Database Display
-![image](https://github.com/Sherlock-7FF15/foodsecurity/blob/main/pic/4.jpg)
+![image](https://github.com/Sherlock-7FF15/foodsecurity/blob/main/pic/4.png)
